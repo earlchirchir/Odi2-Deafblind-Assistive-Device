@@ -2,6 +2,11 @@
 
 A tactile-to-audio & haptic assistive communication hardware interface designed to enable seamless interaction for deafblind individuals.
 
+## 📸 Project Gallery
+| Wearable Front View | Internal Hardware & Actuators | Back View |
+| :---: | :---: | :---: |
+| ![Odi2 Front](images/odi2_front.jpg) | ![Odi2 Inside](images/odi2_inside.jpg) | ![Odi2 Back](images/odi2_back.jpg) |
+
 ## 📖 Overview
 **Odi2** is an innovative assistive technology device engineered to bridge the communication gap for individuals who are deafblind. Using a custom tactile interface, the device converts Braille and haptic inputs into synthesized speech and text for sighted/hearing individuals, and translates incoming speech/text back into physical haptic vibrations.
 
@@ -16,4 +21,3 @@ A tactile-to-audio & haptic assistive communication hardware interface designed 
 - Haptic Vibration Actuators (LRA / ERM Motors)
 - Audio DAC & I2S Amplifier Speaker Driver
 - Tactile Microswitches
-
