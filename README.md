@@ -17,5 +17,3 @@ A tactile-to-audio & haptic assistive communication hardware interface designed 
 - Audio DAC & I2S Amplifier Speaker Driver
 - Tactile Microswitches
 
----
-*Transferred from original project portfolio to official GitHub repository.*
